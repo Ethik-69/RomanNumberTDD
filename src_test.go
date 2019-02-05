@@ -1,7 +1,7 @@
 package roman_test
 
 import (
-	. "github.com/TheSystem-69/roman_tdd"
+	. "github.com/Ethik-69/roman_tdd"
 	"reflect"
 	"testing"
 )
